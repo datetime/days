@@ -1,0 +1,45 @@
+{
+  "name": "days",
+  "description": "Days of the week.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jonschlinkert/days",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jonschlinkert/days.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/days/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jonschlinkert/days/blob/master/LICENSE-MIT"
+    }
+  ],
+  "keywords": [
+    "day",
+    "days",
+    "date",
+    "calendar",
+    "weekday",
+    "week",
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday",
+    "saturday",
+    "sunday"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "devDependencies": {
+    "verb": "^0.2.13"
+  }
+}
