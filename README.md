@@ -8,7 +8,7 @@
 var days = require('days');
 
 console.log(days);
-//=> ['Sunday', 'Monday', 'Tuesday', 'Wendesday', 'Thursday', 'Friday', 'Saturday']
+//=> ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
 
 console.log(days.abbr)
 //=> ['Sun', 'Mon', 'Tue', 'Wed', 'Thur', 'Fri', 'Sat']
