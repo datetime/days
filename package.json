@@ -3,21 +3,15 @@
   "description": "Days of the week.",
   "version": "1.0.1",
   "homepage": "https://github.com/jonschlinkert/days",
-  "author": {
-    "name": "Jon Schlinkert",
-    "url": "https://github.com/jonschlinkert"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/jonschlinkert/days.git"
-  },
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "jonschlinkert/days",
   "bugs": {
     "url": "https://github.com/jonschlinkert/days/issues"
   },
-  "license": {
-    "type": "MIT",
-    "url": "https://github.com/jonschlinkert/days/blob/master/LICENSE-MIT"
-  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
   "main": "index.js",
   "engines": {
     "node": ">=0.10.0"
@@ -32,13 +26,13 @@
     "monday",
     "now",
     "saturday",
+    "sunday",
     "thursday",
     "time",
     "timespan",
     "tuesday",
     "wednesday",
     "week",
-    "weekday",
-    "sunday"
+    "weekday"
   ]
 }
