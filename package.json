@@ -4,6 +4,11 @@
   "version": "1.0.2",
   "homepage": "https://github.com/jonschlinkert/days",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "contributors": [
+    "Golo Roden <hello@thenativeweb.io> (http://www.thenativeweb.io)",
+    "Jon Schlinkert <jon.schlinkert@sellside.com> (http://twitter.com/jonschlinkert)",
+    "Sebastien MEIFFREN (http://www.commande-online.fr)"
+  ],
   "repository": "jonschlinkert/days",
   "bugs": {
     "url": "https://github.com/jonschlinkert/days/issues"
