@@ -16,9 +16,9 @@ module.exports.fr.abbr = ['dim', 'lun', 'mar', 'mer', 'jeu', 'ven', 'sam'];
 module.exports.fr.short = ['di', 'lu', 'ma', 'me', 'je', 've', 'sa'];
 
 // Spanish translation
-module.exports.fr = ['domingo', 'lunes', 'martes', 'miercoles', 'jueves', 'viernes', 'sabado'];
-module.exports.fr.abbr = ['dom', 'lun', 'mar', 'mir', 'jue', 'vie', 'sab'];
-module.exports.fr.short = ['do', 'lu', 'ma', 'mi', 'ju', 'vi', 'sa'];
+module.exports.es = ['domingo', 'lunes', 'martes', 'miercoles', 'jueves', 'viernes', 'sabado'];
+module.exports.es.abbr = ['dom', 'lun', 'mar', 'mir', 'jue', 'vie', 'sab'];
+module.exports.es.short = ['do', 'lu', 'ma', 'mi', 'ju', 'vi', 'sa'];
 
 // In order not to break compatibility
 module.exports = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
