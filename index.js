@@ -20,6 +20,11 @@ module.exports.es = ['domingo', 'lunes', 'martes', 'miercoles', 'jueves', 'viern
 module.exports.es.abbr = ['dom', 'lun', 'mar', 'mir', 'jue', 'vie', 'sab'];
 module.exports.es.short = ['do', 'lu', 'ma', 'mi', 'ju', 'vi', 'sa'];
 
+// Italian translation
+module.exports.it = ['Domenica', 'Lunedi', 'Martedi', 'Mercoledi', 'Giovedi', 'Venerdi', 'Sabato'];
+module.exports.it.abbr = ['Dom', 'Lun', 'Mar', 'Mer', 'Gio', 'Ven', 'Sab'];
+module.exports.it.short = ['D', 'L', 'Ma', 'Me', 'G', 'V', 'S'];
+
 // In order not to break compatibility
 module.exports = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
 module.exports.abbr = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
