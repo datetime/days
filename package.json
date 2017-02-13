@@ -7,7 +7,8 @@
   "contributors": [
     "Golo Roden <hello@thenativeweb.io> (http://www.thenativeweb.io)",
     "Jon Schlinkert <jon.schlinkert@sellside.com> (http://twitter.com/jonschlinkert)",
-    "Sebastien MEIFFREN (http://www.commande-online.fr)"
+    "Sebastien MEIFFREN (http://www.commande-online.fr)",
+    "Osman Nuri Okumus <onokumus@gmail.com> (http://twitter.com/onokumus)"
   ],
   "repository": "jonschlinkert/days",
   "bugs": {
