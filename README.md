@@ -36,7 +36,7 @@ console.log(days.short)
 var days = require('days');
 
 console.log(days.en);
-//=> ['Sunday', 'Monday', 'Tuesday', 'Wendesday', 'Thursday', 'Friday', 'Saturday']
+//=> ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
 
 console.log(days.fr);
 //=> ['dimanche', 'lundi', 'mardi', 'mercredi', 'jeudi', 'vendredi', 'samedi']
