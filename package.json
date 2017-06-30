@@ -5,8 +5,9 @@
   "homepage": "https://github.com/jonschlinkert/days",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "contributors": [
-    "Golo Roden <hello@thenativeweb.io> (http://www.thenativeweb.io)",
-    "Jon Schlinkert <jon.schlinkert@sellside.com> (http://twitter.com/jonschlinkert)",
+    "Daniel Salgado Población (http://danielsalgado.com/wordpress35)",
+    "Federico Vitale (https://rawnly.com)",
+    "Jon Schlinkert (http://twitter.com/jonschlinkert)",
     "Sebastien MEIFFREN (http://www.commande-online.fr)"
   ],
   "repository": "jonschlinkert/days",
@@ -20,6 +21,9 @@
   "main": "index.js",
   "engines": {
     "node": ">=0.10.0"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^0.1.11"
   },
   "keywords": [
     "calendar",
@@ -40,9 +44,6 @@
     "week",
     "weekday"
   ],
-  "devDependencies": {
-    "gulp-format-md": "^0.1.11"
-  },
   "verb": {
     "toc": false,
     "layout": "default",

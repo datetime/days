@@ -1,8 +1,8 @@
 /*!
  * days <https://github.com/jonschlinkert/days>
  *
- * Copyright (c) 2014 Jon Schlinkert, contributors.
- * Licensed under the MIT license.
+ * Copyright (c) 2014-2017, Jon Schlinkert.
+ * Released under the MIT License.
  */
 
 // English
