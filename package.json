@@ -1,7 +1,7 @@
 {
   "name": "days",
   "description": "Days of the week.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "homepage": "https://github.com/jonschlinkert/days",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "contributors": [
