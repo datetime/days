@@ -42,7 +42,14 @@
     "tuesday",
     "wednesday",
     "week",
-    "weekday"
+    "weekday",
+    "segunda",
+    "terça",
+    "quarta",
+    "quinta",
+    "sexta",
+    "sábado",
+    "domingo"
   ],
   "verb": {
     "toc": false,
