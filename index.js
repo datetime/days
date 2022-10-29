@@ -26,9 +26,9 @@ module.exports.it.abbr = ['Dom', 'Lun', 'Mar', 'Mer', 'Gio', 'Ven', 'Sab'];
 module.exports.it.short = ['D', 'L', 'Ma', 'Me', 'G', 'V', 'S'];
 
 // Brazilian Portuguese translation
-module.exports.ptBr = ['Domingo', 'Segunda', 'Terça', 'Quarta', 'Quinta', 'Sexta', 'Sábado'];
+module.exports.ptBr = ['Domingo', 'Segunda-feira', 'Terça-feira', 'Quarta-feira', 'Quinta-feira', 'Sexta-feira', 'Sábado'];
+module.exports.ptBr.abbr = ['Domingo', 'Segunda', 'Terça', 'Quarta', 'Quinta', 'Sexta', 'Sábado'];
 module.exports.ptBr.abbr = ['Dom', 'Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb'];
-module.exports.ptBr.abbr = ['Do', 'Seg', 'Te', 'Qua', 'Qui', 'Sex', 'Sá'];
 
 // In order not to break compatibility
 module.exports = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
